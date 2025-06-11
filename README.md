@@ -181,12 +181,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Permission Errors**
 - On Linux/macOS, some battery information may require elevated privileges
 - Try running with `sudo` if basic information is not available
-
-## Changelog
-
-### Version 1.0.0
-- Initial release
-- Basic and advanced battery monitoring
-- Multiple output formats (text, JSON, CSV)
-- Data export functionality
-- Windows WMI integration
