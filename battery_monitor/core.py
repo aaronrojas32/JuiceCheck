@@ -1,7 +1,7 @@
 import psutil
 from battery_monitor import wmi_utils
 
-__version__ = "1.0.0"
+__version__ = "1.1.4"
 
 
 def get_basic_battery_status():
